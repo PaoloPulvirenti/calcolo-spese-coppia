@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calcolo-spese-coppia/static/css/main.f855e6bc.css",
+    "main.js": "/calcolo-spese-coppia/static/js/main.4c2e50c6.js",
+    "static/js/453.90f8b6d5.chunk.js": "/calcolo-spese-coppia/static/js/453.90f8b6d5.chunk.js",
+    "index.html": "/calcolo-spese-coppia/index.html",
+    "main.f855e6bc.css.map": "/calcolo-spese-coppia/static/css/main.f855e6bc.css.map",
+    "main.4c2e50c6.js.map": "/calcolo-spese-coppia/static/js/main.4c2e50c6.js.map",
+    "453.90f8b6d5.chunk.js.map": "/calcolo-spese-coppia/static/js/453.90f8b6d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4c2e50c6.js"
+  ]
+}
