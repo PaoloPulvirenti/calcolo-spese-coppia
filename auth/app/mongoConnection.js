@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
 
-const uri = process.env.MONGO_URI || "mongodb://localhost:27017";
+const uri = process.env.MONGO_URI || "mongodb://localhost:27018/?w=majority&readPreference=primary&retryWrites=true&directConnection=true&ssl=false";
 let client;
 
 export default async function handler(req, res) {

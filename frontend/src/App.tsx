@@ -1,9 +1,11 @@
-import { useState } from 'react';
-import './App.css';
+import { useState } from 'react'
+import './App.css'
 
-export default function App() {
-  return <ExpenseCalculator />;
+function App() {
+  return ExpenseCalculator();
 }
+
+export default App
 
 export function ExpenseCalculator() {
   const [salary1, setSalary1] = useState('');
